@@ -1,2 +1,2 @@
-# Project-RoWiki
-RoWikipedia
+# QR-code generator
+Can transform anything to QR-code
